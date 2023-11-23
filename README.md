@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NITESH KUMAR
 - 👀 I’m interested in WEB DEVLOPMENT,BLOCKCHAIN AND DSA
 - 🌱 I’m currently learning BLOCKCHAIN
-- 💞️ I’m looking to collaborate on MERN related project
+- 💞️ I’m looking to collaborate on MERN related projects
 - 📫 How to reach me niteshmishra171171171@gmail.com
 
 <!---
